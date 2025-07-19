@@ -267,8 +267,8 @@ nav {
   display: inline-block;
   margin-top: 350px;
   padding: 12px 24px;
-  background-color: #507bf1;
-  color: #fff;
+  background-color: #a8ec80;
+  color: #615c5c;
   font-size: 16px;
   border-radius: 8px;
   text-decoration: none;
@@ -276,7 +276,7 @@ nav {
 }
 
 .btn:hover {
-  background-color: #374fc3;
+  background-color: #919dda;
 }
 
 /* Responsive */
